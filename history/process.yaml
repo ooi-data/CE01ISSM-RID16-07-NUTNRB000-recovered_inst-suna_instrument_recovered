@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-RID16-07-NUTNRB000-recovered_inst-suna_instrument_recovered
 data_stream: CE01ISSM-RID16-07-NUTNRB000-recovered_inst-suna_instrument_recovered
 end_date: '2021-03-28T00:00:00.000Z'
-last_updated: '2021-09-18T03:16:46.360829Z'
+last_updated: '2021-09-18T03:23:01.930686'
 start_date: '2017-10-13T00:00:00.000Z'
-status: pending
+status: success
